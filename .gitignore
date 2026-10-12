@@ -11,3 +11,4 @@ htmlcov/
 benchmarks/results_*.csv
 !benchmarks/results.csv
 *.egg-info/
+materials/
